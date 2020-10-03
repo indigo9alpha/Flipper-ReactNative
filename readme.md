@@ -1,6 +1,9 @@
 # Flipper-ReactNative
 
-Flipper(https://github.com/indigo9alpha/Flipper)のモバイルアプリ版。
+![Flipper-rn](https://user-images.githubusercontent.com/69807657/94988895-8db61900-05ab-11eb-9df0-4e7c2d150ad2.gif)
+
+[Flipper](https://github.com/indigo9alpha/Flipper)
+のモバイルアプリ版。
 React Nativeで開発しました。
 
 
